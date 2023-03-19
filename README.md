@@ -45,11 +45,16 @@ const Valentina =
 <h2 align="center">My Portfolio</h2>
 You can visit my personal portfolio in: <a href="https://valentina-puentes-front-end.netlify.app/" target="blank"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)" alt="myPortfolio"</a> 
     
-    <h2 align="center">Contact me </h2>
-    <p align="center
+<h2 align="center">Contact me </h2>
+<p align="left">
 <a href="mailto:valentinapuentes725@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
-<a href="https://www.linkedin.com/in/valentina-puentes-garzon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Puentes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valentina-puentes-garzon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Rippe" height="30" width="40" /></a>
 </p>
+
+### Thanks to visit my profile! 
+<img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="200" align='center'>
+
+   
                                                                                                               
                                                                                                               
                                                                                                               
