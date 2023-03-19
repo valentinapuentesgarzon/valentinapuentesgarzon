@@ -5,6 +5,8 @@
 
 <p>I am a bilingual Full Stack Web Developer fluent in Spanish and proficient in English at a B2 level. I am interested in expanding my knowledge as a developer to further improve user experience and solve problems through digital media. </p>
 
+<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e474hcmp681l1ycbg96km2bfvfp87wwv8h2cgzxdzv0&rid=giphy.gif&ct=g" width="500" align='right'>
+
 ```javascript
 const Valentina = 
     askMeAbout: ["web dev", "tech", "design"],
@@ -23,6 +25,8 @@ const Valentina =
           }
 }
 ```
+
+
 
 
 
