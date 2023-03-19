@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina :smile_cat:</h1>
 <h2 align="center">I'm Full Stack Developer 💻</h2>
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlNzNkOTNhMmRkNjdlODJjNTMyYTA1NGY0OTRkNjJjZmY2YzdjNSZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"> A little more about me...  +
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlNzNkOTNhMmRkNjdlODJjNTMyYTA1NGY0OTRkNjJjZmY2YzdjNSZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"> A little more about me...  
 
 <p>I am a bilingual Full Stack Web Developer fluent in Spanish and proficient in English at a B2 level. I am interested in expanding my knowledge as a developer to further improve user experience and solve problems through digital media. </p>
 
@@ -41,6 +41,20 @@ const Valentina =
 <a href="https://github.com/valentinapuentesgarzon"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/valentinapuentesgarzon"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p><br>
+
+<h2 align="center">My Portfolio</h2>
+You can visit my personal portfolio in: <a href="https://valentina-puentes-front-end.netlify.app/" target="blank"> <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)" alt="myPortfolio"</a> 
+    
+    <h2 align="center">Contact me </h2>
+    <p align="center
+<a href="mailto:valentinapuentes725@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
+<a href="https://www.linkedin.com/in/valentina-puentes-garzon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Puentes" height="30" width="40" /></a>
+</p>
+                                                                                                              
+                                                                                                              
+                                                                                                              
+
+
     
     
     
