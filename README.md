@@ -5,6 +5,25 @@
 
 <p>I am a bilingual Full Stack Web Developer fluent in Spanish and proficient in English at a B2 level. I am interested in expanding my knowledge as a developer to further improve user experience and solve problems through digital media. </p>
 
+```javascript
+const Valentina = 
+    askMeAbout: ["web dev", "tech", "design"],
+    technologies:{
+        frontEnd: {
+            js: [ "React"],
+            css: ["scss"]
+        },
+        backEnd: {
+            js: ["nodejs", "express"]
+        },
+        database: ["mongo","mySql"]
+    },
+        Desing: {
+          layout: [HTML5, CSS],
+          create: [Figma, suiteAdobe]  
+}
+```
+
 
 
 
