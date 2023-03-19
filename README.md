@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina :smile_cat:</h1>
-<h2 align="center">I'm Front End Developer 💻</h2>
+<h2 align="center">I'm a Front End Developer 💻</h2>
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlNzNkOTNhMmRkNjdlODJjNTMyYTA1NGY0OTRkNjJjZmY2YzdjNSZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"> A little more about me...  
 
@@ -51,7 +51,7 @@ You can visit my personal portfolio in: <a href="https://valentina-puentes-front
 <a href="https://www.linkedin.com/in/valentina-puentes-garzon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Rippe" height="30" width="40" /></a>
 </p>
 
-### Thanks to visit my profile! 🖤 👩‍💻 
+### Thanks for visiting my profile! 🖤 👩‍💻 
 <img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="150" align='center'>
 
    
