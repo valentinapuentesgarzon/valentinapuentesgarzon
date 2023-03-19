@@ -52,7 +52,7 @@ You can visit my personal portfolio in: <a href="https://valentina-puentes-front
 </p>
 
 ### Thanks to visit my profile! 
-<img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="200" align='center'>
+<img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="150" align='center'>
 
    
                                                                                                               
