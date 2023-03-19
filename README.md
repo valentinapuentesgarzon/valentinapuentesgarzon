@@ -16,12 +16,12 @@ const Valentina =
         backEnd: {
             js: ["nodejs", "express"]
         },
-        database: ["mongo","mySql"]
-    },
+        database: ["mongo","mySql"],
         desing: {
-          layout: [HTML5, CSS],
-          create: [Figma, suiteAdobe]  
-}}
+          layout: ["HTML5", "CSS"],
+          create: ["Figma", "suiteAdobe"]  
+          }
+}
 ```
 
 
