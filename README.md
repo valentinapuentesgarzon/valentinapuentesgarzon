@@ -18,10 +18,10 @@ const Valentina =
         },
         database: ["mongo","mySql"]
     },
-        Desing: {
+        desing: {
           layout: [HTML5, CSS],
           create: [Figma, suiteAdobe]  
-}
+}}
 ```
 
 
