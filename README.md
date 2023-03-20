@@ -50,9 +50,12 @@ You can visit my personal portfolio in: <a href="https://valentina-puentes-front
 <a href="mailto:valentinapuentes725@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
 <a href="https://www.linkedin.com/in/valentina-puentes-garzon-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentina Rippe" height="30" width="40" /></a>
 </p>
+<h2 align="center">Thanks for visiting my profile! 🖤 👩‍💻</h2>
+<p align="center">
+<img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="150">
+</p>
 
-### Thanks for visiting my profile! 🖤 👩‍💻 
-<img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47lgp95xro8o5qvpuw59wl2co6ktjjhygtkvr8f9an&rid=giphy.gif&ct=g" width="150" align='center'>
+
 
    
                                                                                                               
