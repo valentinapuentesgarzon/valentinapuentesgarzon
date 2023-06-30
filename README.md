@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina :smile_cat:</h1>
-<h2 align="center">I'm a Front End Developer 💻</h2>
+<h2 align="center">I'm a Designer 💻</h2>
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlNzNkOTNhMmRkNjdlODJjNTMyYTA1NGY0OTRkNjJjZmY2YzdjNSZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"> A little more about me...  
 
