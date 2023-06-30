@@ -3,7 +3,7 @@
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlNzNkOTNhMmRkNjdlODJjNTMyYTA1NGY0OTRkNjJjZmY2YzdjNSZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"> A little more about me...  
 
-<p>I am a bilingual Front End Web Developer fluent in Spanish and proficient in English at a B2 level. I am interested in expanding my knowledge as a developer to further improve user experience and solve problems through digital media. </p>
+<p>I am a bilingual UX designer fluent in Spanish and proficient in English at a B2 level. I am interested in expanding my knowledge as a developer to further improve user experience and solve problems through digital media. </p>
 
 <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e474hcmp681l1ycbg96km2bfvfp87wwv8h2cgzxdzv0&rid=giphy.gif&ct=g" width="400" align='right'>
 
